@@ -1,13 +1,10 @@
 public class Employee {
 
-    //Variables
-    int eid;
-    String ename;
-    String job;
-    int sal;
-
-    //Methods
-
+    //variables
+    int E_id;
+    String E_name;
+    String E_job;
+    int
 
 
     public static void main(String[] args){
