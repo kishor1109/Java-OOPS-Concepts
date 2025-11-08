@@ -4,7 +4,13 @@ public class Employee {
     int E_id;
     String E_name;
     String E_job;
-    int
+    int E_salary;
+
+    //Methods
+    void display(){
+
+
+    }
 
 
     public static void main(String[] args){
