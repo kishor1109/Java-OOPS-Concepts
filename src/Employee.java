@@ -22,6 +22,13 @@ public class Employee {
 
     public static void main(String[] args){
 
+        Employee emp1=new Employee();
+        emp1.E_id=100;
+        emp1.E_name="kishor";
+        emp1.E_job="Software Engineer";
+        emp1.E_salary=30000;
+
+        emp1.display();
 
     }
 }
