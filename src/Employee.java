@@ -9,7 +9,10 @@ public class Employee {
     //Methods
     void display(){
 
-
+        System.out.println("E-id");
+        System.out.println("E_name");
+        System.out.println("E_job");
+        System.out.println("E_salary");
     }
 
 
